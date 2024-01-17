@@ -1,5 +1,5 @@
 ## Cybersecurity Project Documentation
-  ![Network Diagram](Cybersecurity%20Project/Network%20Diagram.PNG)
+![Network Diagram](Cybersecurity%20Project/Network%20Diagram.PNG)
 - [Group8TVRAReport.docx](Cybersecurity%20Project/Group8TVRAReport.docx) TVRA REPORT
 - [Group8_CybersecurityAssessmentSummary.pdf](Cybersecurity%20Project/Group8_CybersecurityAssessmentSummary.pdf)  Cybersecurity Assessment Summary
 - [Group8_FunctionalTesting-Low-Level-Design.xlsx](Cybersecurity%20Project/Group8_FunctionalTesting-Low-Level-Design.xlsx) Functional Testing of Low level Design
