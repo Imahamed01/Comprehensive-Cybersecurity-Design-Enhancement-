@@ -1,4 +1,5 @@
 ## Cybersecurity Project Documentation
+Network Diagram
 ![Network Diagram](Cybersecurity%20Project/Network%20Diagram.PNG)
 - [Group8TVRAReport.docx](Cybersecurity%20Project/Group8TVRAReport.docx) TVRA REPORT
 - [Group8_CybersecurityAssessmentSummary.pdf](Cybersecurity%20Project/Group8_CybersecurityAssessmentSummary.pdf)  Cybersecurity Assessment Summary
