@@ -1,11 +1,7 @@
 ## Cybersecurity Project Documentation
 
-
-
-
 #TVRA REPORT
 - [Group8TVRAReport.docx](Cybersecurity%20Project/Group8TVRAReport.docx) 
-
   CybersecurityAssessmentSummary
 - [Group8_CybersecurityAssessmentSummary.pdf](Cybersecurity%20Project/Group8_CybersecurityAssessmentSummary.pdf) 
   Functional Testing of Low level Design
